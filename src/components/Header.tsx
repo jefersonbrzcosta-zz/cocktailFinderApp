@@ -23,8 +23,10 @@ const Header = ({navigation, getData, searchText, cancelData}: HeaderProps) => {
           backgroundColor: '#f2f2f2',
           borderRadius: 5,
           paddingLeft: 10,
+          color: 'silver',
         }}
         placeholder="Search"
+        placeholderTextColor="silver"
         onChangeText={getData}
         value={searchText}
       />

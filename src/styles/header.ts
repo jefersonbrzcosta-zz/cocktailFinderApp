@@ -1,8 +1,8 @@
-import {StyleSheet} from 'react-native';
+import {Platform, StyleSheet} from 'react-native';
 
 export const styles = StyleSheet.create({
   container: {
-    marginTop: 50,
+    marginTop: Platform.OS === 'ios' ? 50 : 0,
     width: '100%',
     height: 50,
     backgroundColor: 'white',
