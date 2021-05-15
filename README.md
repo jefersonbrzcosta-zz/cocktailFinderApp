@@ -2,6 +2,11 @@
 
 Welcome! :)
 
+![image](https://user-images.githubusercontent.com/15023491/118352037-9dc8aa80-b535-11eb-8e34-2e02cfd77175.png)
+![image](https://user-images.githubusercontent.com/15023491/118352046-a7521280-b535-11eb-9cbb-6246f8311341.png)
+![image](https://user-images.githubusercontent.com/15023491/118352053-af11b700-b535-11eb-99cb-14b4758543ed.png)
+
+
 ## About the Project
 
 This is a mobile application made in React Native App. It consume an public API about cocktails and renders it on screen. Search input while you type.
